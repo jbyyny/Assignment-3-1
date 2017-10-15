@@ -133,7 +133,7 @@ h2 {
   font-weight: 600;
   color: #033048;
   padding-left: 40px;
-  padding-top: 10px;
+  padding-top: 5px;
   width: 600px;
 }
 
@@ -256,6 +256,16 @@ p:first-letter {
   padding-bottom: 40px;
 }
 
+.learn-more {
+  font-weight: 700;
+  font-size: 16px;
+  color: #033048;
+  text-decoration: none;
+  float: left;
+  padding-top: 5px;
+  padding-bottom: 40px;
+}
+
 .bullets  {
   padding-left: 50px;
   padding-bottom: 50px;
@@ -304,8 +314,8 @@ ul li {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   color: #033048;
-  line-height: 1.7em;;
-  text-align: left;
+  line-height: 1.7em;
+  align: left;
 }
 
 .about-text {
@@ -313,7 +323,7 @@ ul li {
   font-weight: 300;
   font-family: 'Open Sans', sans-serif;
   color: #033048;
-  width: 260px;
+  width: 270px;
   padding-left: 30px;
   padding-right: 40px;
 }
